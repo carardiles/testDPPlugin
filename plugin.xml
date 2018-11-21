@@ -73,6 +73,21 @@
 		<resource-file src="src/android/libs/armeabi-v7a/libtfm.so" target="libs/armeabi-v7a/libtfm.so" />
 		<resource-file src="src/android/libs/armeabi-v7a/libZAandroid.so" target="libs/armeabi-v7a/libZAandroid.so" />
 		<resource-file src="src/android/libs/armeabi-v7a/libdpfpdd_tcd58.so" target="libs/armeabi-v7a/libdpfpdd_tcd58.so" />
+
+		<resource-file src="src/android/libs/arm64-v8a/libbiofp_e_lapi.so" target="libs/arm64-v8a/libbiofp_e_lapi.so" />
+		<resource-file src="src/android/libs/arm64-v8a/libdpfj.so" target="libs/arm64-v8a/libdpfj.so" />
+		<resource-file src="src/android/libs/arm64-v8a/libdpfpdd.so" target="libs/arm64-v8a/libdpfpdd.so" />
+		<resource-file src="src/android/libs/arm64-v8a/libdpfpdd_4k.so" target="libs/arm64-v8a/libdpfpdd_4k.so" />
+		<resource-file src="src/android/libs/arm64-v8a/libdpfpdd_ptapi.so" target="libs/arm64-v8a/libdpfpdd_ptapi.so" />
+		<resource-file src="src/android/libs/arm64-v8a/libdpfpdd5000.so" target="libs/arm64-v8a/libdpfpdd5000.so" />
+		<resource-file src="src/android/libs/arm64-v8a/libdpfr6.so" target="libs/arm64-v8a/libdpfr6.so" />
+		<resource-file src="src/android/libs/arm64-v8a/libdpfr7.so" target="libs/arm64-v8a/libdpfr7.so" />
+		<resource-file src="src/android/libs/arm64-v8a/libdpuareu_jni.so" target="libs/arm64-v8a/libdpuareu_jni.so" />
+		<resource-file src="src/android/libs/arm64-v8a/libdpuvc.so" target="libs/arm64-v8a/libdpuvc.so" />
+		<resource-file src="src/android/libs/arm64-v8a/libFingerILA.so" target="libs/arm64-v8a/libFingerILA.so" />
+		<resource-file src="src/android/libs/arm64-v8a/libtfm.so" target="libs/arm64-v8a/libtfm.so" />
+		<resource-file src="src/android/libs/arm64-v8a/libZAandroid.so" target="libs/arm64-v8a/libZAandroid.so" />
+		<resource-file src="src/android/libs/arm64-v8a/libdpfpdd_tcd58.so" target="libs/arm64-v8a/libdpfpdd_tcd58.so" />
 		
     </platform>
 </plugin>
